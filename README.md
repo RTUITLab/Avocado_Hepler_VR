@@ -55,8 +55,8 @@ Seven (lucky number, isn’t it?) mini games! Are you excited?
 
 ---
 # SourceCode
-| name   | link                                          |
-| ------ | --------------------------------------------- |
-| Проект | https://github.com/RTUITLab/Avocado_Hepler_VR |
+| Sirotenko Maksim | https://github.com/darke333                   |
+| ---------------- | --------------------------------------------- |
+| Проект           | https://github.com/RTUITLab/Avocado_Hepler_VR |
 
 ---
