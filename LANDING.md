@@ -16,12 +16,12 @@ Seven (lucky number, isn’t it?) mini games! Are you excited?
 
 ---
 # Images
-* ![](https://files.rtuitlab.ru/landing_src/avocadio/1.jpg)
-* ![](https://files.rtuitlab.ru/landing_src/avocadio/2.jpg)
-* ![](https://files.rtuitlab.ru/landing_src/avocadio/3.jpg)
-* ![](https://files.rtuitlab.ru/landing_src/avocadio/4.jpg)
-* ![](https://files.rtuitlab.ru/landing_src/avocadio/5.jpg)
-* ![](https://files.rtuitlab.ru/landing_src/avocadio/6.jpg)
+* ![](https://github.com/RTUITLab/Avocado_Hepler_VR/blob/Master/1%20(1).jpg)
+* ![](https://github.com/RTUITLab/Avocado_Hepler_VR/blob/Master/2.jpg)
+* ![](https://github.com/RTUITLab/Avocado_Hepler_VR/blob/Master/3.jpg)
+* ![](https://github.com/RTUITLab/Avocado_Hepler_VR/blob/Master/4.jpg)
+* ![](https://github.com/RTUITLab/Avocado_Hepler_VR/blob/Master/5.jpg)
+* ![](https://github.com/RTUITLab/Avocado_Hepler_VR/blob/Master/6.jpg)
 
 ---
 # Videos
@@ -55,8 +55,8 @@ Seven (lucky number, isn’t it?) mini games! Are you excited?
 
 ---
 # SourceCode
-| name   | link                                  |
-| ------ | ------------------------------------- |
-| Проект | https://github.com/RTUITLab/Avocadio/ |
+| Sirotenko Maksim | https://github.com/darke333                   |
+| ---------------- | --------------------------------------------- |
+| Проект           | https://github.com/RTUITLab/Avocado_Hepler_VR |
 
 ---
