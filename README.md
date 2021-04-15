@@ -1,5 +1,4 @@
-# Title
-Avocadio - Explore amazing worlds with your new friend - talking avocado!
+# Avocadio - Explore amazing worlds with your new friend - talking avocado!
 
 ---
 # Description
@@ -49,9 +48,6 @@ Seven (lucky number, isn’t it?) mini games! Are you excited?
 * Пушкин А.
 * Нечиноренко А.
 * Шорин И.
-
----
-# Site
 
 ---
 # SourceCode
